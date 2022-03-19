@@ -1,6 +1,6 @@
 ## Hello pessoALL! Eu sou o Jean Felipe 👋
 
-- 🔭 Atualmente trabalho com front-end e back-end
+- 🔭 Atualmente trabalho com um pouco de front-end e back-end
 - 🌱 Estudando mais o mundo fullstack (Javascript, NodeJs, MongoDB, React, TypeScript)
 - 😄 Pronomes: ele/dele (He/His)
 
